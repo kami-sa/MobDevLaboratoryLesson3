@@ -1,2 +1,2 @@
-include ':app', ':intentapp', ':share'
+include ':app', ':intentapp', ':share', ':resultactivity'
 rootProject.name='lablesson3'
